@@ -19,8 +19,8 @@ A safe space for mental health support and creative expression, built with Next.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Jabir-Srj/MindLink2.git
-cd mindlink
+git clone https://github.com/Jabir-Srj/mindlink2.git
+cd mindlink2
 ```
 
 2. Install dependencies:
