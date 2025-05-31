@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="120" viewBox="0 0 100 120">
+  <!-- Brain silhouette - simplified -->
+  <path d="M50,10 C30,10 20,25 20,45 C20,65 30,80 50,80 C70,80 80,65 80,45 C80,25 70,10 50,10 Z" fill="white" />
+  <path d="M50,5 C45,5 40,0 40,0 C30,0 20,10 20,20 L20,45 L30,30 C30,20 35,15 40,10 C45,5 50,5 50,5 Z" fill="white" />
+  <path d="M50,80 L50,100" stroke="white" stroke-width="4" />
+  
+  <!-- MINDLINK text -->
+  <text x="50" y="115" font-family="Arial, sans-serif" font-weight="bold" font-size="12" fill="white" text-anchor="middle">MINDLINK</text>
+</svg> 
