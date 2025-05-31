@@ -19,7 +19,7 @@ A safe space for mental health support and creative expression, built with Next.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mindlink.git
+git clone https://github.com/Jabir-Srj/MindLink2.git
 cd mindlink
 ```
 
